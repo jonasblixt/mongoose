@@ -1,0 +1,1030 @@
+226900194268112
+footprints
+1-1825027-1
+
+
+0
+4
+2
+footprints
+2-1445054-2
+
+
+0
+4
+3
+footprints
+5-104074-8
+
+
+0
+7
+6
+footprints
+8DFN_EP
+
+
+0
+11
+9
+footprints
+100LBGA_DQ
+
+
+0
+100
+100
+footprints
+217LFBGA
+217-BALLS LFBGA PACKAGE
+217-BALLS LFBGA PACKAGE
+0
+217
+217
+footprints
+515-1049f
+
+
+0
+0
+0
+footprints
+2450AT18B100
+
+
+0
+2
+2
+footprints
+2450BM15B0002
+
+
+0
+6
+6
+footprints
+18650_cell
+
+
+0
+0
+0
+footprints
+34826-8200
+
+
+0
+20
+20
+footprints
+78171-5006
+
+
+0
+8
+7
+footprints
+0781710003
+
+
+0
+5
+4
+footprints
+61201021621
+
+
+0
+10
+10
+footprints
+ANT016008LCD1575MA1
+
+
+0
+4
+4
+footprints
+BGA-90-0.8mm
+
+
+0
+90
+90
+footprints
+BGA-96_pitch0.8mm_dia0.4mm
+
+
+0
+96
+96
+footprints
+BGA-200_12x22_10.0x14.5mm
+
+
+0
+200
+200
+footprints
+BGA-486_27x27_P0.5mm_14.0x14.0mm
+
+
+0
+487
+487
+footprints
+C0402
+Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)
+capacitor 0402
+0
+2
+2
+footprints
+C0603
+Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)
+capacitor 0603
+0
+2
+2
+footprints
+C0805
+Capacitor SMD 0805, reflow soldering, AVX (see smccp.pdf)
+capacitor 0805
+0
+2
+2
+footprints
+CP-88-10
+
+
+0
+89
+89
+footprints
+CP_Elec_3x5.3
+SMT capacitor, aluminium electrolytic, 3x5.3
+
+0
+2
+2
+footprints
+CP_Elec_4x4.5
+SMT capacitor, aluminium electrolytic, 4x4.5
+
+0
+2
+2
+footprints
+CP_Elec_4x5.3
+SMT capacitor, aluminium electrolytic, 4x5.3
+
+0
+2
+2
+footprints
+CP_Elec_4x5.7
+SMT capacitor, aluminium electrolytic, 4x5.7
+
+0
+2
+2
+footprints
+CP_Elec_4x5.8
+SMT capacitor, aluminium electrolytic, 4x5.8
+
+0
+2
+2
+footprints
+CP_Elec_5x4.5
+SMT capacitor, aluminium electrolytic, 5x4.5
+
+0
+2
+2
+footprints
+CP_Elec_5x5.3
+SMT capacitor, aluminium electrolytic, 5x5.3
+
+0
+2
+2
+footprints
+CP_Elec_5x5.7
+SMT capacitor, aluminium electrolytic, 5x5.7
+
+0
+2
+2
+footprints
+CP_Elec_5x5.8
+SMT capacitor, aluminium electrolytic, 5x5.8
+
+0
+2
+2
+footprints
+CP_Elec_6.3x4.5
+SMT capacitor, aluminium electrolytic, 6.3x4.5
+
+0
+2
+2
+footprints
+CP_Elec_6.3x5.3
+SMT capacitor, aluminium electrolytic, 6.3x5.3
+
+0
+2
+2
+footprints
+CP_Elec_6.3x5.7
+SMT capacitor, aluminium electrolytic, 6.3x5.7
+
+0
+2
+2
+footprints
+CP_Elec_6.3x5.8
+SMT capacitor, aluminium electrolytic, 6.3x5.8
+
+0
+2
+2
+footprints
+CP_Elec_6.3x7.7
+SMT capacitor, aluminium electrolytic, 6.3x7.7
+
+0
+2
+2
+footprints
+CP_Elec_8x5.4
+SMT capacitor, aluminium electrolytic, 8x5.4
+
+0
+2
+2
+footprints
+CP_Elec_8x6.5
+SMT capacitor, aluminium electrolytic, 8x6.5
+
+0
+2
+2
+footprints
+CP_Elec_8x6.7
+SMT capacitor, aluminium electrolytic, 8x6.7
+
+0
+2
+2
+footprints
+CP_Elec_8x10
+SMT capacitor, aluminium electrolytic, 8x10
+
+0
+2
+2
+footprints
+CP_Elec_8x10.5
+SMT capacitor, aluminium electrolytic, 8x10.5
+
+0
+2
+2
+footprints
+CP_Elec_10x7.7
+SMT capacitor, aluminium electrolytic, 10x7.7
+
+0
+2
+2
+footprints
+CP_Elec_10x10
+SMT capacitor, aluminium electrolytic, 10x10
+
+0
+2
+2
+footprints
+CP_Elec_10x10.5
+SMT capacitor, aluminium electrolytic, 10x10.5
+
+0
+2
+2
+footprints
+DCU8_0.5mm
+
+
+0
+8
+8
+footprints
+DFN-6-1EP_3x2mm_P0.5mm_EP1.65x1.35mm
+DFN, 6 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-dfn/(DCB6)%20DFN%2005-08-1715%20Rev%20A.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+DFN DFN_QFN
+0
+11
+7
+footprints
+DFN-8-1EP_3x2mm_P0.5mm_EP1.36x1.46mm
+8-Lead Plastic Dual Flat, No Lead Package (8MA2) - 2x3x0.6 mm Body (http://ww1.microchip.com/downloads/en/DeviceDoc/20005010F.pdf)
+DFN 0.5
+0
+13
+9
+footprints
+DFN-8-1EP_3x3mm_P0.5mm_EP1.66x2.38mm
+DD Package; 8-Lead Plastic DFN (3mm x 3mm) (see Linear Technology DFN_8_05-08-1698.pdf)
+DFN 0.5
+0
+13
+9
+footprints
+DFN-8-1EP_6x5mm_P1.27mm_EP4x4mm
+DD Package; 8-Lead Plastic DFN (6mm x 5mm) (see http://www.everspin.com/file/236/download)
+dfn 
+0
+25
+9
+footprints
+DFN-8_2x2mm_Pitch0.5mm
+DFN8 2x2, 0.5P; No exposed pad - Ref http://pdfserv.maximintegrated.com/land_patterns/90-0349.PDF
+DFN 0.5
+0
+8
+8
+footprints
+DFN-12-1EP_3x4mm_P0.5mm_EP1.7x3.3mm
+DE/UE Package; 12-Lead Plastic DFN (4mm x 3mm) (see Linear Technology DFN_12_05-08-1695.pdf)
+DFN 0.5
+0
+21
+13
+footprints
+DFN-16-1EP_3x5mm_P0.5mm_EP1.66x4.4mm
+DHC Package; 16-Lead Plastic DFN (5mm x 3mm) (see Linear Technology DFN_16_05-08-1706.pdf)
+DFN 0.5
+0
+27
+17
+footprints
+DFN-16-1EP_4x5mm_P0.5mm_EP2.44x4.34mm
+DHD Package; 16-Lead Plastic DFN (5mm x 4mm) (see Linear Technology 05081707_A_DHD16.pdf)
+DFN 0.5
+0
+25
+17
+footprints
+DPX1625
+
+
+0
+4
+4
+footprints
+DSBGA12
+
+
+0
+12
+12
+footprints
+DSBGA15
+
+
+0
+15
+15
+footprints
+D_SMB
+Diode SMB (DO-214AA)
+Diode SMB (DO-214AA)
+0
+2
+2
+footprints
+Ethernet_trafo_so16w
+Module CMS SOJ 16 pins tres large
+CMS SOJ
+0
+16
+16
+footprints
+fakra_th
+
+
+0
+5
+2
+footprints
+FCLGA211
+
+
+0
+211
+210
+footprints
+FQFN34-24
+
+
+0
+34
+27
+footprints
+FTSH-105-01-F-DV-K
+
+
+0
+10
+10
+footprints
+Fuse_1206_3216Metric
+Fuse SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+footprints
+HHM22106C1
+
+
+0
+6
+6
+footprints
+HTSSOP28
+
+
+0
+35
+29
+footprints
+IHLP1212
+
+
+0
+2
+2
+footprints
+IHLP1616
+
+
+0
+2
+2
+footprints
+IHLP2020
+
+
+0
+2
+2
+footprints
+IHLP2525
+
+
+0
+2
+2
+footprints
+KS54
+
+
+0
+3
+3
+footprints
+L0402
+Inductor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)
+inductor 0402
+0
+2
+2
+footprints
+L0603
+Inductor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)
+inductor 0603
+0
+2
+2
+footprints
+L0805
+Inductor SMD 0805, reflow soldering, Vishay (see dcrcw.pdf)
+inductor 0805
+0
+2
+2
+footprints
+LARA_R2_LGA
+
+
+0
+100
+100
+footprints
+LED_0603
+LED 0603 smd package
+LED led 0603 SMD smd SMT smt smdled SMDLED smtled SMTLED
+0
+2
+2
+footprints
+LFBGA289
+
+
+0
+289
+289
+footprints
+LGA24_3.5_1mm
+UDC Package; 24-Lead Plastic QFN (3mm x 4mm); (see Linear Technology QFN_24_05-08-1745.pdf)
+QFN 0.4
+0
+24
+24
+footprints
+liteon_rgb_0603
+
+
+0
+4
+4
+footprints
+L_0402
+Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 0402
+0
+2
+2
+footprints
+L_0603
+Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 0603
+0
+2
+2
+footprints
+L_0805
+Resistor SMD 0805, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 0805
+0
+2
+2
+footprints
+M-RJHSE-X38X-02
+
+
+0
+26
+26
+footprints
+MAX7
+
+
+0
+18
+18
+footprints
+MH_2.5mm
+
+
+0
+0
+0
+footprints
+MLF-10
+
+
+0
+10
+10
+footprints
+MLPD6
+
+
+0
+15
+6
+footprints
+Molex_0430450818
+
+
+0
+10
+10
+footprints
+molex_lte_ant_146200
+
+
+0
+4
+2
+footprints
+mPCIe
+
+
+0
+60
+53
+footprints
+NX1255
+
+
+0
+4
+4
+footprints
+NX2012
+
+
+0
+2
+2
+footprints
+NX2520
+
+
+0
+4
+4
+footprints
+NX2520SA
+
+
+0
+4
+4
+footprints
+NX3225
+
+
+0
+4
+4
+footprints
+NX3225SA
+
+
+0
+4
+4
+footprints
+PowerPAK-1212-8
+8-Lead Plastic Dual Flat, No Lead Package (MF) - 3x3x0.9 mm Body [DFN] (see Microchip Packaging Specification 00000049BS.pdf)
+DFN 0.65
+0
+9
+9
+footprints
+PowerPAK_SO8
+
+
+0
+6
+5
+footprints
+QFN-16-1EP_4x4mm_Pitch0.65mm
+16-Lead Plastic Quad Flat, No Lead Package (ML) - 4x4x0.9 mm Body [QFN]; (see Microchip Packaging Specification 00000049BS.pdf)
+QFN 0.65
+0
+20
+17
+footprints
+QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm
+QFN, 28 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=283), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+38
+29
+footprints
+QFN-32-1EP_5x5mm_Pitch0.5mm
+UH Package; 32-Lead Plastic QFN (5mm x 5mm); (see Linear Technology QFN_32_05-08-1693.pdf)
+QFN 0.5
+0
+36
+33
+footprints
+QFN-36-1EP_6x6mm_Pitch0.5mm
+QFN 36 6x6mm 0,5mm pitch 3,7x3,7mm EPAD http://ww1.microchip.com/downloads/en/DeviceDoc/36L_QFN_6x6_with_3_7x3_7_EP_Punch_Dimpled_4E_C04-0241A.pdf
+QFN-0.5 36SQFN-3706-6x6B
+0
+53
+37
+footprints
+QFN-64-1EP_9x9mm_P0.5mm_EP4.7x4.7mm
+QFN, 64 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/60001477A.pdf (page 1083)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+74
+65
+footprints
+R-PWSON-N12
+
+
+0
+20
+13
+footprints
+R0402
+Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 0402
+0
+2
+2
+footprints
+R0603
+Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 0603
+0
+2
+2
+footprints
+R0805
+Resistor SMD 0805, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 0805
+0
+2
+2
+footprints
+RJE72-188-1401
+
+
+0
+10
+10
+footprints
+RJQ0026A
+
+
+0
+26
+26
+footprints
+SF14
+
+
+0
+5
+5
+footprints
+SK6812RGBW
+
+
+0
+4
+4
+footprints
+SMD_HDR_6
+
+
+0
+6
+6
+footprints
+SMD_HDR_8
+
+
+0
+8
+8
+footprints
+SOT-23
+SOT-23, Standard
+SOT-23
+0
+3
+3
+footprints
+SOT-23-5
+5-pin SOT23 package
+SOT-23-5
+0
+5
+5
+footprints
+SOT-23-6
+6-pin SOT-23 package
+SOT-23-6
+0
+6
+6
+footprints
+SOT-353_SC-70-5
+SOT-353, SC-70-5
+SOT-353 SC-70-5
+0
+5
+5
+footprints
+SOT-363_SC-70-6
+SOT-363, SC-70-6
+SOT-363 SC-70-6
+0
+6
+6
+footprints
+STING_R1
+
+
+0
+0
+0
+footprints
+Texas_S-PVQFN-N16_EP2.7x2.7mm
+QFN, 16 Pin (http://www.ti.com/lit/ds/symlink/msp430g2001.pdf#page=43), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+26
+17
+footprints
+TFM-105-02-S-D-WT
+
+
+0
+12
+12
+footprints
+TFM-110-02-S-D-WT
+
+
+0
+22
+21
+footprints
+TI_LMX_SIL
+
+
+0
+9
+9
+footprints
+TO-277A
+Thermal enhanced ultra thin SMD package; 3 leads; body: 5.8 x 4.3 x 0.78 mm
+TO-277A SOT-1289
+0
+12
+3
+footprints
+Torex_XCL22_QFN
+
+
+0
+11
+11
+footprints
+TOSLINK_VERTICAL
+
+
+0
+5
+5
+footprints
+TP_1mm
+
+
+0
+1
+1
+footprints
+TSOC6
+
+
+0
+6
+6
+footprints
+TSOP-I-48_18.4x12mm_P0.5mm
+TSOP I, 32 pins, 18.4x8mm body (https://www.micron.com/~/media/documents/products/technical-note/nor-flash/tn1225_land_pad_design.pdf)
+TSOP I 32
+0
+48
+48
+footprints
+TSOT-6-MK06A
+TSOP-6 MK06A housing 6pin
+
+0
+6
+6
+footprints
+TSOT-23-5
+5-pin TSOT23 package, http://cds.linear.com/docs/en/packaging/SOT_5_05-08-1635.pdf
+TSOT-23-5
+0
+5
+5
+footprints
+TSOT-23-6
+6-pin TSOT23 package, http://cds.linear.com/docs/en/packaging/SOT_6_05-08-1636.pdf
+TSOT-23-6 MK06A TSOT-6
+0
+6
+6
+footprints
+TSSOP-8_3x3mm_P0.65mm
+TSSOP8: plastic thin shrink small outline package; 8 leads; body width 3 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot505-1_po.pdf)
+SSOP 0.65
+0
+8
+8
+footprints
+uDFN6_EP
+
+
+0
+7
+7
+footprints
+UFBGA144
+
+
+0
+144
+144
+footprints
+UQFN12
+
+
+0
+12
+12
+footprints
+USB_A_TH
+USB A connector
+USB USB_A
+0
+6
+6
+footprints
+USB_Micro-B
+Micro USB Type B Receptacle
+USB USB_B USB_micro USB_OTG
+0
+9
+7
+footprints
+VFBGA63
+
+
+0
+63
+63
+footprints
+VQFN_HR_22
+
+
+0
+29
+22
+footprints
+VSSOP-8_2.3x2mm_P0.5mm
+VSSOP-8 2.3x2mm Pitch 0.5mm
+VSSOP-8 2.3x2mm Pitch 0.5mm
+0
+8
+8
+footprints
+WLA.01
+
+
+0
+3
+3
+footprints
+WLCSP12
+
+
+0
+12
+12
+footprints
+WLCSP16
+
+
+0
+16
+16
+footprints
+WLCSP20
+
+
+0
+20
+20
+footprints
+YFQ
+
+
+0
+6
+6
+footprints
+YJE
+
+
+0
+6
+6
